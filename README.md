@@ -5,7 +5,7 @@
 
 This is the first bot for Slack I made when I belonged to the rowing club.
 At that time, each crew had to reply their ship's name and responsible person to a specifit post, so that the club can make sure who will practice next morning.  
-This bot automatically extract and summarize information.
+This bot automatically extracts and summarizes information.
 
 # 当時の更新履歴
 6/17 トリガーを設定した時に、設定した時刻を投稿するように修正  
